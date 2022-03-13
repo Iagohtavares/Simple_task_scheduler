@@ -20,12 +20,12 @@ Instalar as dependencias do projeto com o comando:
 \$ yarn
 ```
 
-Após concluir as intalações das dependencias, para iniciar o projeto em seu computador, basta utilizar o comando: http://localhost:8080/ :
+Após concluir as intalações das dependencias, para iniciar o projeto em seu computador, basta utilizar o comando:
 ```
 \$ yarn dev
 ```
 
-Com o terminal abertos e executando o comando acima, basta acessar: http://localhost:8080/ e ser feliz.
+Com o terminal aberto e executando o comando acima, basta acessar: http://localhost:8080/ e ser feliz.
 
 
 Para executar os testes, basta rodar o comando:
