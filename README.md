@@ -2,6 +2,13 @@
 
 Uma simples agenda de tarefas. Atividade realizada como parte do aprendizado em ReactJs.
 
+## Quais tecnologias utilizadas?
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+
 
 ## INSTALAÇÃO
 
