@@ -5,7 +5,8 @@ Uma simples agenda de tarefas. Atividade realizada como parte do aprendizado em 
 ## Quais tecnologias utilizadas?
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [Styled Components](https://styled-components.com/)
+- [SASS](https://sass-lang.com/)
+- [Webpack](https://webpack.js.org/)
 - [Jest](https://jestjs.io/)
 
 
