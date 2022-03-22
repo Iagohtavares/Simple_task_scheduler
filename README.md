@@ -27,7 +27,7 @@ Instalar as dependencias do projeto com o comando:
 \$ yarn
 ```
 
-Após concluir as intalações das dependencias, para iniciar o projeto em seu computador, basta utilizar o comando:
+Após concluir as instalações das dependencias, para iniciar o projeto em seu computador, basta utilizar o comando:
 ```
 \$ yarn dev
 ```
